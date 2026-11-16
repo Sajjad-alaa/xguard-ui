@@ -92,7 +92,7 @@ export const IconKind = {
   AppStore: 'app-store',
   Apple: 'apple',
   Desktop: 'desktop',
-  Defguard: 'defguard',
+  XGuard: 'xguard',
   Mobile: 'mobile',
   MobileLock: 'mobile-lock',
   Android: 'android',
