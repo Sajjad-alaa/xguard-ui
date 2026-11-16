@@ -1,1 +1,1 @@
-# Defguard React UI Components Collection
+# XGuard React UI Components Collection

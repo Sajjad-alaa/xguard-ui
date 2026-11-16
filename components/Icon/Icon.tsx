@@ -42,7 +42,7 @@ import { IconCustomize } from './icons/IconCustomize';
 import { IconDarkTheme } from './icons/IconDarkTheme';
 import { IconDate } from './icons/IconDate';
 import { IconDebian } from './icons/IconDebian';
-import { IconDefguard } from './icons/IconDefguard';
+import { IconXGuard } from './icons/IconXGuard';
 import { IconDelete } from './icons/IconDelete';
 import { IconDeploy } from './icons/IconDeploy';
 import { IconDesktop } from './icons/IconDesktop';
@@ -278,8 +278,8 @@ export const Icon = <T extends IconKindValue>({
         return IconEmptyPoint;
       case 'desktop':
         return IconDesktop;
-      case 'defguard':
-        return IconDefguard;
+      case 'xguard':
+        return IconXGuard;
       case 'mobile':
         return IconMobile;
       case 'mobile-lock':
